@@ -1,4 +1,4 @@
-#import "@preview/cades:0.3.0": qr-code
+#import "@preview/cades:0.3.1": qr-code
 
 #let width = 210mm
 #let height = 297mm
